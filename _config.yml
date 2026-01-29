@@ -56,16 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Karolainny Zabala P"
+  name   : "Karolainny Zabala "
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Karolainny'z site for the Intro to Digital Humanities Course."
+  bio    : Marhaba!! This is Karo's site for the Intro to Digital Humanities Course :)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -75,9 +72,6 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
