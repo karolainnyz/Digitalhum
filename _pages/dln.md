@@ -1,6 +1,6 @@
 
 
-# Reflection: Digital Literacy from My Perspective
+#GPT-5 mini Reflection: Digital Literacy from My Perspective
 
 I am a 19-year-old university student majoring in Hospitality and minoring in Nutrition. Digital literacy for me is practical and social as much as it is academic. I use digital tools every day to plan menus, schedule events, collect dietary information, and communicate with classmates and instructors. On top of those task-driven uses, I am learning to see digital literacy as a set of habits and critical lenses that shape how I create content, manage data, and collaborate across disciplines.
 
