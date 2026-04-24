@@ -1,8 +1,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "DLN"
-    url: /dln/
+  - title: "DN"
+    url: /digital-narrative/
   - title: "Assignments"
     url: /assigned/
   - title: "FP"
