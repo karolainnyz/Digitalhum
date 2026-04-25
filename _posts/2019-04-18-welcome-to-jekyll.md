@@ -7,9 +7,6 @@ tags:
   - Jekyll
   - update
 ---
-
-<span style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif;">ent #1 - Welcome to Jekyll!</span>
-
 <div style="font-family: 'Times New Roman', serif;">
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

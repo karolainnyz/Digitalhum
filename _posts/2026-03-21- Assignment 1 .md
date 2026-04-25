@@ -7,7 +7,7 @@ categories:
 - Assignments
 ---
 
-<span style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif;">Assignment #1 - Corpus Analysis</span>
+<span style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 18px;">Assignment #1 - Corpus Analysis</span>
 
 <div style="font-family: 'Times New Roman', serif;">
 
