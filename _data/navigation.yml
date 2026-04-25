@@ -2,9 +2,9 @@ main:
   - title: "About"
     url: /about/
   - title: "DN"
-    url: /digital-narrative/
+    url: /dln/
   - title: "Assignments"
-    url: /assigned/
+    url: /assignments/
   - title: "FP"
     url: /final-project/
   - title: "Tags"

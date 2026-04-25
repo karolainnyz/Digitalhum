@@ -1,6 +1,7 @@
 ---
 title: "Assignment 1"
-categories: assignments
+categories: 
+- Assignments
 ---
 
 <span style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif;">Assignment #1 - Corpus Analysis</span>
