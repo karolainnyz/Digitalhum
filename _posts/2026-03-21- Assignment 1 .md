@@ -4,7 +4,7 @@ categories:
 - Assignments
 ---
 
-<span style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 35px;">Analysis of a corpus made of Nutrition books from the early 2000's :D</span>
+<span style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 18px;">Analysis of a corpus made of Nutrition books from the early 2000's :D</span>
 
 <div style="font-family: 'Times New Roman', serif;">
 
