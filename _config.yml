@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DH Site 
+title: Digital Humanities Blog 
 email: kz2749@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Karolainny Zabala "
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : Marhaba!! This is Karo's site for the Intro to Digital Humanities Course :)"
+  name: "Karolainny Zabala"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Marhaba!! This is Karo's site for the Intro to Digital Humanities Course :)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -68,6 +68,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+  
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -83,8 +84,6 @@ footer:
 
   sass:
   style: compressed
-
-minimal_mistakes_skin: default
 
 defaults:
   # _posts
