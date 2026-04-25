@@ -81,6 +81,11 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+  sass:
+  style: compressed
+
+minimal_mistakes_skin: default
+
 defaults:
   # _posts
   - scope:
