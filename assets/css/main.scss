@@ -14,3 +14,20 @@
 h1 {
   color: #FF1493;
 }
+// 🔥 Make page titles pink (homepage + posts + sections)
+.page__title,
+.archive__item-title a,
+.page__meta h1 {
+  color: #FF1493;
+}
+
+// 🔥 Optional: make all links pink
+a {
+  color: #FF1493;
+}
+
+// 🔥 Optional: pink border for search bar
+.search-content,
+.search-input {
+  border: 2px solid #FF1493;
+}
