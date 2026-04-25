@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-## **GPT-5 mini Reflection: Digital Literacy from My Perspective**
+# **GPT-5 mini Reflection: Digital Literacy from My Perspective**
 
 I am a 19-year-old university student majoring in Hospitality and minoring in Nutrition. Digital literacy for me is practical and social as much as it is academic. I use digital tools every day to plan menus, schedule events, collect dietary information, and communicate with classmates and instructors. On top of those task-driven uses, I am learning to see digital literacy as a set of habits and critical lenses that shape how I create content, manage data, and collaborate across disciplines.
 
@@ -25,7 +25,7 @@ Going forward I want to explore a few new ways of thinking. I want to learn basi
 
 Digital literacy, for me, is not just a list of tools but a practice of connecting methods to values: clarity, respect for data subjects, and the desire to make helpful, evidence-based choices for people. As I continue in this course, I hope to grow more confident using digital methods while staying grounded in the human-centered mission that brought me to hospitality and nutrition in the first place.
 
-## **GPT - 4.1 Reflection: Digital Literacy from a Computer Science Student's Perspective**
+# **GPT - 4.1 Reflection: Digital Literacy from a Computer Science Student's Perspective**
 
 As a 20-year-old university student majoring in Computer Science and minoring in English, digital literacy is both my toolkit and my lens for understanding the world. My daily life is shaped by the interplay between technical fluency and critical interpretation. I am constantly navigating between writing code and writing essays, debugging programs and deconstructing texts, collaborating with peers from diverse disciplines, and reflecting on the ethical implications of the digital tools I use and create.
 
@@ -47,7 +47,7 @@ Reflecting on my current abilities, I feel confident in my technical skills and 
 
 Looking ahead, I want to explore new ways of thinking that integrate computational and humanistic approaches. I hope to develop more advanced skills in data visualization and digital storytelling, learn about ethical data stewardship, and experiment with creative uses of AI. Most importantly, I want to continue learning from my classmates in other disciplines, as their insights and experiences enrich my own understanding of what it means to be digitally literate in a complex, interconnected world.
 
-## **Claude Haiku 4.5 Reflection: Digital Literacy from a Finance Student's Perspective**
+# **Claude Haiku 4.5 Reflection: Digital Literacy from a Finance Student's Perspective**
 
 I am a 19-year-old university student majoring in Finance and minoring in Art History. For me, digital literacy sits at the intersection of numbers and aesthetics, of data-driven decision-making and cultural interpretation. In finance, digital tools are essential for modeling, trading, and analyzing market trends; in art history, they help me explore how images and cultural artifacts speak to historical moments and human values. Digital literacy, in my experience, is the ability to navigate complex datasets, tell stories through numbers and images, and understand the ethical and aesthetic dimensions of the digital world I inhabit.
 
