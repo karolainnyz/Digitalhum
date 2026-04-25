@@ -1,8 +1,5 @@
 ---
 title: "Assignment 1"
-
-<h1 style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif;"
-
 categories: 
 - Assignments
 ---
