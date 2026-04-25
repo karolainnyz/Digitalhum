@@ -3,16 +3,9 @@
 
 @charset "utf-8";
 
-// import theme FIRST
 @import "minimal-mistakes";
 
-// your styles
-body {
-  background-color: #FFB6D9;
-  font-family: 'Times New Roman', serif;
-  font-size: 16px;
-}
-
+// small custom tweaks (optional)
 .search-content,
 .search-input {
   border: 2px solid #FF1493;
@@ -20,5 +13,4 @@ body {
 
 h1 {
   color: #FF1493;
-  font-size: 18px;
 }
