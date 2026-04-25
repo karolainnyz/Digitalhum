@@ -7,6 +7,8 @@
 // Light pink background
 body {
   background-color: #FFB6D9;
+  font-family: 'Times New Roman', serif;
+  font-size: 16px;
 }
 
 // Hot pink border for search bar
@@ -14,4 +16,10 @@ body {
 .search-input {
   border-color: #FF1493;
   border-width: 2px;
+}
+
+// Pink h1 titles, slightly bigger
+h1 {
+  color: #FF1493;
+  font-size: 2.2em;
 }
