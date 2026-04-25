@@ -1,0 +1,17 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Light pink background
+body {
+  background-color: #FFB6D9;
+}
+
+// Hot pink border for search bar
+.search-content,
+.search-input {
+  border-color: #FF1493;
+  border-width: 2px;
+}
