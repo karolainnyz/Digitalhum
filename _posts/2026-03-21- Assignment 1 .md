@@ -3,9 +3,10 @@ title: "Assignment 1"
 categories: 
 - Assignments
 - Blog 
+ 
 ---
 
-</p style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 18px;">Analysis of a corpus made of Nutrition books from the early 2000's :D
+<p style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 18px;">Analysis of a corpus made of Nutrition books from the early 2000's :D
 </p>
 
 For my Assignment #1 corpus, I chose to analyze different selections of recipe books and cookbooks that are available on the Project Gutenberg website. To ensure a diverse dataset, I included a range of texts. I first searched under the “cooking & drinking” hobbies category on the website to explore my available options. The professor emphasized the importance of the range of publication dates among texts, the length of each text, word density, unique words, most frequent words, and other factors that will influence the results of your corpus. I was intrigued by the many different books available, including general cookbooks emphasizing affordable and sustainable meals, drink recipe books suggesting the best drinks to pair with each meal, dessert-focused cookbooks focusing on specific desserts such as cakes and pastries, and cookbooks with recipes utilizing canned foods. I even discovered a specialized text focused entirely on customized popcorn recipes. 
@@ -16,7 +17,7 @@ For my Assignment #1 corpus, I chose to analyze different selections of recipe b
 
 <iframe style='width: 100%; height: 700px;' src='https://voyant-tools.org/?stopList=keywords-e7d40e8ac9209fde43e24dbf0d97593e&panels=cirrus%2Creader%2Ctrends%2Cphrases%2Ccorpuscollocates&corpus=ba0e58e346dd915d2c1f44aae143a450'></iframe>
 
-</p> Before thoroughly analyzing the corpus, I refined the dataset by removing the most common stopwords. In addition to the list Voyant Tools had built, I added specific terms such as “Gutenberg”, “https”, “cups”, “tablespoons”, “oz”, “lbs”, etc., because they felt generic and didn’t add much value to my results. I was hesitant to add procedural words such as “add”, “mix”, “pour”, “bake”, etc., to the stopwords list. However, because my focus was on identifying ingredient frequency across texts rather than on cooking methods, intrusctional styles, and consistent ingredients, I decided to include these words in the stopword list. 
+ Before thoroughly analyzing the corpus, I refined the dataset by removing the most common stopwords. In addition to the list Voyant Tools had built, I added specific terms such as “Gutenberg”, “https”, “cups”, “tablespoons”, “oz”, “lbs”, etc., because they felt generic and didn’t add much value to my results. I was hesitant to add procedural words such as “add”, “mix”, “pour”, “bake”, etc., to the stopwords list. However, because my focus was on identifying ingredient frequency across texts rather than on cooking methods, intrusctional styles, and consistent ingredients, I decided to include these words in the stopword list. 
 
  One of my most interesting findings is that “sugar” is the most frequent term across all texts. This was unexpected because most of the recipe books selected are not dessert-focused and include a wide range of savory recipes. However, this result suggests that sugar functions as a more universal ingredient used across recipe books (sometimes used for seasoning). Rather than being limited to desserts and sweets, like most people conclude, sugar can also be used in small amounts to balance the flavors in certain recipes. 
 
