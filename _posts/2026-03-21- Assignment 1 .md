@@ -50,4 +50,4 @@ For my Assignment #1 corpus, I chose to analyze different selections of recipe b
 
  Ultimately, this project aligns with Underwood’s discussion in the "Risks of Distant Reading", where the author emphasizes that larger-scale analysis can reveal patterns that are sometimes distorted due to the structure of your dataset. The patterns found while distant reading can reveal a lot of useful information across large sets of texts. Those patterns are deeply shaped positively and negatively by the structure of the corpus itself. It is important to closely analyze the results as well. As I worked through the analysis, I became more aware of how decisions about filtering, visualizing, and inclusion directly affect what becomes most visible in the data, and therefore seems more important and prominent. Rather than producing a single definitive interpretation of the corpus, this entire process showed me the value in meaning that can emerge through making comparisons and adjustments. Overall, the project reinforced that digital text analysis is not only about obtaining data, but about understanding how the patterns are constructed.
 
-
+READY FOR GRADING
