@@ -6,7 +6,7 @@ categories:
  
 ---
 
-<p style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 18px;">
+<p style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 35px;">
 Analysis of a corpus made of Nutrition books from the early 2000's :D
 </p>
 
