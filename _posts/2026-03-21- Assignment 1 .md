@@ -20,7 +20,7 @@ categories:
 
 <p> One of my most interesting findings is that “sugar” is the most frequent term across all texts. This was unexpected because most of the recipe books selected are not dessert-focused and include a wide range of savory recipes. However, this result suggests that sugar functions as a more universal ingredient used across recipe books (sometimes used for seasoning). Rather than being limited to desserts and sweets, like most people conclude, sugar can also be used in small amounts to balance the flavors in certain recipes. 
 
-![Voyant visual 1 word cloud](/assets/images/voyant_cloud.png.png)
+![Voyant visual 1 word cloud](/assets/images/githubprofile.png.png)
 
 <p> After analyzing the word bubble, I viewed the summary. I realized that the “What to Drink: The Blue Book of Beverages” was overpowering my corpus and significantly affecting my results. According to the Voyant Tools summary, this book is the longest in the dataset, with 37,596 words, yet it has the lowest vocabulary density of 0.094 and the lowest number of words per sentence of 20.3. 
 
