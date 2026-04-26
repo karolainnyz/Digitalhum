@@ -30,10 +30,53 @@ a {
   color: #FF1493;
 }
 
+// 🔥 Make site title / sidebar headings / nav labels light coral
+.site-title,
+.site-title a,
+.site-header .site-title,
+.brand-name,
+.author-name,
+.sidebar h2,
+.sidebar h3,
+.sidebar h4,
+.sidebar .widget-title,
+.sidebar .widget-title a,
+.widget-title,
+.widget-title a,
+.section-title,
+.section-title a,
+.main-navigation a,
+.nav-list a,
+.navigation a,
+.top-nav a,
+.secondary-nav a,
+.sidebar .nav a,
+.sidebar .nav-list a,
+.navbar a,
+.menu a,
+.menu-item a {
+  color: lightcoral !important;
+}
+
 // 🔥 Optional: pink border for search bar
 .search-content,
 .search-input {
   border: 2px solid #FF1493;
+}
+
+.search-content input,
+.search-input input,
+.search-form input,
+.search-form label,
+.search-form .search-button {
+  color: lightcoral !important;
+  border-color: lightcoral !important;
+}
+
+.search-input::placeholder,
+.search-content input::placeholder,
+.search-form input::placeholder {
+  color: lightcoral !important;
 }
 
 .post-title a {
