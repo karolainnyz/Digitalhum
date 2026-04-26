@@ -1,7 +1,8 @@
 ---
 title: "Digital Literacy Narrative"
 categories:
-- DN
+- Blog
+- Assignments 
 ---
 ## **GPT-5 mini Reflection: Digital Literacy from My Perspective**
 
