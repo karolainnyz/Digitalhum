@@ -24,6 +24,7 @@ categories:
 
 <p> After analyzing the word bubble, I viewed the summary. I realized that the “What to Drink: The Blue Book of Beverages” was overpowering my corpus and significantly affecting my results. According to the Voyant Tools summary, this book is the longest in the dataset, with 37,596 words, yet it has the lowest vocabulary density of 0.094 and the lowest number of words per sentence of 20.3. <P> 
 
+c:\Users\zkaro\OneDrive\Pictures\Screenshots\top_words.png.png
 ![added summary from voyant](/assets/images/voyant_summary.png)
 
 <p> I believe this is an important finding because it suggests that the results of this corpus rely heavily on the repetition of the “Blue Book of Beverages” and a limited range of vocabulary compared to the other cookbooks. Since the analysis is based on frequency, a longer text with more repetitive wording is more likely to dominate the corpus and make it seem like some ingredients are more universally common than they actually are across texts. For example, the high frequency of words like sugar, milk, and cream may reflect that the kinds of drinks that are in this book are desserts or milk-based sweetened drinks rather than healthier or more savory choices. 
