@@ -6,7 +6,8 @@ categories:
  
 ---
 
-<p style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 18px;">Analysis of a corpus made of Nutrition books from the early 2000's :D
+<p style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 18px;">
+Analysis of a corpus made of Nutrition books from the early 2000's :D
 </p>
 
 For my Assignment #1 corpus, I chose to analyze different selections of recipe books and cookbooks that are available on the Project Gutenberg website. To ensure a diverse dataset, I included a range of texts. I first searched under the “cooking & drinking” hobbies category on the website to explore my available options. The professor emphasized the importance of the range of publication dates among texts, the length of each text, word density, unique words, most frequent words, and other factors that will influence the results of your corpus. I was intrigued by the many different books available, including general cookbooks emphasizing affordable and sustainable meals, drink recipe books suggesting the best drinks to pair with each meal, dessert-focused cookbooks focusing on specific desserts such as cakes and pastries, and cookbooks with recipes utilizing canned foods. I even discovered a specialized text focused entirely on customized popcorn recipes. 
