@@ -14,13 +14,13 @@ categories:
 
 <p> After finalizing my decision, I input the text files into the Voyant Tools website. 
 
-<iframe style='width: 100%; height: 800px;' src='https://voyant-tools.org/?stopList=keywords-e7d40e8ac9209fde43e24dbf0d97593e&panels=cirrus%2Creader%2Ctrends%2Cphrases%2Ccorpuscollocates&corpus=ba0e58e346dd915d2c1f44aae143a450'></iframe>
+<iframe style='width: 100%; height: 700px;' src='https://voyant-tools.org/?stopList=keywords-e7d40e8ac9209fde43e24dbf0d97593e&panels=cirrus%2Creader%2Ctrends%2Cphrases%2Ccorpuscollocates&corpus=ba0e58e346dd915d2c1f44aae143a450'></iframe>
 
 <p> Before thoroughly analyzing the corpus, I refined the dataset by removing the most common stopwords. In addition to the list Voyant Tools had built, I added specific terms such as “Gutenberg”, “https”, “cups”, “tablespoons”, “oz”, “lbs”, etc., because they felt generic and didn’t add much value to my results. I was hesitant to add procedural words such as “add”, “mix”, “pour”, “bake”, etc., to the stopwords list. However, because my focus was on identifying ingredient frequency across texts rather than on cooking methods, intrusctional styles, and consistent ingredients, I decided to include these words in the stopword list.
 
 <p> One of my most interesting findings is that “sugar” is the most frequent term across all texts. This was unexpected because most of the recipe books selected are not dessert-focused and include a wide range of savory recipes. However, this result suggests that sugar functions as a more universal ingredient used across recipe books (sometimes used for seasoning). Rather than being limited to desserts and sweets, like most people conclude, sugar can also be used in small amounts to balance the flavors in certain recipes. 
 
-![Word cloud voyant visual](../assets/images/voyant_cloud.png.png)
+![Word cloud voyant visual](/assets/images/voyant_cloud.png.png)
 
 <p> After analyzing the word bubble, I viewed the summary. I realized that the “What to Drink: The Blue Book of Beverages” was overpowering my corpus and significantly affecting my results. According to the Voyant Tools summary, this book is the longest in the dataset, with 37,596 words, yet it has the lowest vocabulary density of 0.094 and the lowest number of words per sentence of 20.3. 
 
