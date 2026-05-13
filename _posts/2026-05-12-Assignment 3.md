@@ -51,12 +51,12 @@ Firstly, many of their ceramics shared a similar minimalist design. The objects 
  I believe the image quality heavily affected classification as well. Most images, particularly images 58, 65, 2, 14, 3, and 74, appeared blurry or low resolution. Although these objects were vases and plates, AI grouped them alongside bowls and mugs. The lack of sharp edges and the reduced details likely weakened the model’s ability to identify distinguishing structural features such as narrow necks or openings, typically in vases. 
 Overall, this suggests that machine learning models are highly sensitive to image resolution and quality. Human viewers can often recognize objects despite the blur or distortion because we draw upon contextual knowledge and prior experience with these objects when we can’t visualize them. In contrast, AI relies more directly on visuals and pixels. When those features become unclear, classification errors are more likely to occur. 
 
-![brown plate](/assets/images/IMG_3528.JPG)
+![brown plate](/Digitalhum/assets/images/IMG_3528.JPG)
 
 
-![plot of brown plate](/assets/images/plots%20of%20image%205%20.png)
+![plot of brown plate](/Digitalhum/assets/images/plots%20of%20image%205%20.png)
 
-![isolated blue bowls](/assets/images/IMG_3531.JPG)
+![isolated blue bowls](/Digitalhum/assets/images/IMG_3531.JPG)
 
 ![plots](/assets/images/Image%206%20-%20plots%20of%20image%206.png)
 
