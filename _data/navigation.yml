@@ -1,6 +1,4 @@
 main:
-  - title: "DN"
-    url: /dln/
   - title: "FP"
     url: /final-project/
   - title: "Tags"
