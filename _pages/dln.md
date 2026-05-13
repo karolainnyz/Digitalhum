@@ -33,6 +33,6 @@ Reflecting on my own strengths, I believe I am adaptable and willing to learn ne
 
 Overall, this course has changed how I think about digital literacy. I no longer see it as simply knowing how to use technology. Instead, I see it as a combination of technical, social, and critical skills that influence how people communicate, collaborate, and solve problems in the modern world. As I continue studying hospitality and nutrition, I hope to strengthen these skills and learn how to use digital tools in ways that improve both efficiency and human connection. For me, digital literacy is ultimately about using technology thoughtfully while still keeping people at the center of the experience. 
 
-READY FOR GRADING!!!
+
 
 </div>
