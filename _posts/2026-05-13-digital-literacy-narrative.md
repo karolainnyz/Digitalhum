@@ -1,8 +1,9 @@
 ---
 title: "Digital Literacy Narrative"
-permalink: /dln/
+categories: 
+- Reflection
+- Blog
 layout: single
-author_profile: false
 ---
 
 <div style="font-family: 'Times New Roman', serif;" markdown="1">
