@@ -22,27 +22,27 @@ For my Assignment #1 corpus, I chose to analyze different selections of recipe b
 
  One of my most interesting findings is that “sugar” is the most frequent term across all texts. This was unexpected because most of the recipe books selected are not dessert-focused and include a wide range of savory recipes. However, this result suggests that sugar functions as a more universal ingredient used across recipe books (sometimes used for seasoning). Rather than being limited to desserts and sweets, like most people conclude, sugar can also be used in small amounts to balance the flavors in certain recipes. 
 
-![Word cloud voyant visual](/Digitalhum/assets/images/voyant_cloud.png.png)
+![Word cloud voyant visual](/assets/images/voyant_cloud.png.png)
 
  After analyzing the word bubble, I viewed the summary. I realized that the “What to Drink: The Blue Book of Beverages” was overpowering my corpus and significantly affecting my results. According to the Voyant Tools summary, this book is the longest in the dataset, with 37,596 words, yet it has the lowest vocabulary density of 0.094 and the lowest number of words per sentence of 20.3. 
 
-![added summary from voyant](/Digitalhum/assets/images/voyant_summary.png)
+![added summary from voyant](/assets/images/voyant_summary.png)
 
  I believe this is an important finding because it suggests that the results of this corpus rely heavily on the repetition of the “Blue Book of Beverages” and a limited range of vocabulary compared to the other cookbooks. Since the analysis is based on frequency, a longer text with more repetitive wording is more likely to dominate the corpus and make it seem like some ingredients are more universally common than they actually are across texts. For example, the high frequency of words like sugar, milk, and cream may reflect that the kinds of drinks that are in this book are desserts or milk-based sweetened drinks rather than healthier or more savory choices. 
 
  Based on the previous results, I decided to remove the “Blue Book of Beverages” text and take a closer look at the corpus. I noticed that the phrases tab displayed the procedural results I was originally looking for. This tab suggests that the corpus is not just dominated by certain ingredients, but also repetitive procedural language and wording. In other words, these texts rely on common instructions that are used across many recipes, which increases the frequency of certain verbs such as boil, mix, bake, and strain, and explains why they appear in the word cloud. 
 
-![Phrases from voyant](/Digitalhum/assets/images/voyant_phrases.png)
+![Phrases from voyant](/assets/images/voyant_phrases.png)
 
-![Bubblelines from voyant tools](/Digitalhum/assets/images/voyant_bubblelines.png)
+![Bubblelines from voyant tools](/assets/images/voyant_bubblelines.png)
 
  Another interesting pattern that is repeated is the consistent mention of ingredients like “butter”, “cream”, and “milk”. When looking at the bubblelines in Voyant Tools, I noticed a contrast between “The Ideal Cookery Book”, which shows a higher frequency of “flour” as an ingredient, while “The New York Cake Book” shows a higher frequency of “butter” as an ingredient. This enforces a new idea that the “Blue Book of Beverages” text isn’t the only one focusing on sweeter and richer recipes; the whole corpus leans towards these options. I was surprised at these results because I expected more variety by adding recipe books that were not strictly dessert-focused, yet phrases like “cream shortening and sugar until light and fluffy” are very catered to baking techniques. 
 
  I then moved my texts into Posit Cloud, where I was surprised to see that the results were not only similar to those from Voyant tools but also more in-depth. This website allowed me to compare the top five words within each individual text, revealing results that were not shown in Voyant Tools’ broader visuals, and I was instantly reminded of the arguments made in The Risks of Distant Reading. For example, I noticed that sugar only appeared as a top ingredient in 3 out of the 5 texts, rather than across the whole corpus. Some results did align with my expectations, like in the “Pop corn” recipe book, corn was the most frequently used ingredient, while butter did not appear among the top five at all like I expected. In contrast, the “Blue Book of Beverages” was dominated by “water, which appeared over 600 times, which suggests that it is used as an ingredient to neutralize the flavor or change the consistency in drinks. 
 
-![posit visual](/Digitalhum/assets/images/posit_cloud.png.png)
+![posit visual](/assets/images/posit_cloud.png.png)
 
-![posit top words visual](/Digitalhum/assets/images/top_words.png.png)
+![posit top words visual](/assets/images/top_words.png.png)
 
  This corpus analysis helps demonstrate how digital text analysis and distant reading can sometimes distort our overall understanding of larger sets of data. While the initial results through Voyant Tools highlighted recurring ingredients such as sugar, milk, and cream across the corpus through the word cloud, the Posit Cloud website revealed that some of these patterns were not consistent. I believe that the results of my corpus are greatly affected by the structure and size of each text, and I found that the book that affected my results the most was “Blue Book of Beverages” due to its larger word density. 
 
