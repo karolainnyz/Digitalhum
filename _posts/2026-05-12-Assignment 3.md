@@ -22,7 +22,7 @@ After collecting all of the images, I organized them into different folders to b
 
 The overall t-SNE visual map reveals several patterns in the clustering that caught my eye across the ceramic object categories originally made. The ceramic vases (classified as gold) occupy the entire top right side of the map, indicating a strong visual consistency in their tall shapes and features. In contrast, ceramic mugs (classified as red) are more dispersed across the top left side, which may reflect greater variety in their structures, proportions, and designs. The ceramic bowls (classified as blue) and the ceramic plates (classified as green) appear in smaller and tighter groupings, which suggest that the model identifies them through a narrower range of shared visual characteristics. A few isolated or overlapping points between clusters likely represent ambiguous ceramics or images whose shapes or textures visually resemble features shared across multiple object classes. 
 
-![first image](/Digitalhum/assets/images/Image 2 - Plates + bowl.png>)
+![first image](/assets/images/image-2-plates-bowl.png)
 
 In this first image plot, a ceramic bowl image (image 23) was clustered alongside the ceramic plates rather than with other bowls. At first glance, this seemed like an incorrect classification. After examining the images carefully, I was able to understand why AI would cluster these images together. 
 
@@ -32,7 +32,7 @@ This cluster and analysis reminded me of Impett and Offert’s argument that whe
 
 ![second analysis](/assets/images/IMG_3530.JPG)
 
-![plot of second analysis](/assets/images/plots-of-image-3.png)
+![plot of second analysis](/assets/images/plots%20of%20image%203%20.png)
 
 One particularly interesting misclassification involved image 1, which is a white ceramic bowl clustered among abstractly shaped vases. This classification seemed highly inaccurate to me because image 1 clearly belonged to a different category of ceramics. However, as I analyzed this cluster thoroughly, the reasons as to why AI would pair these images together became clearer. 
 
@@ -40,7 +40,7 @@ Unlike the traditional images of bowls with symmetrical and circular forms I dow
 
 As a human viewer, I immediately recognized the error because I saw the object simply as a bowl. However, the algorithm prioritized visual attributes over practical and basic interpretation. This finding also reflects some of the themes discussed in Distant Viewing by Arnold and Tilton regarding the importance of labeling and categorization when it comes to computational analysis. Labels are not just neutral descriptions, they shape and affect how algorithms learn and interpret the visual information provided. Through this assignment, I’m learning that if the categories themselves contain ambiguous, vague, or overlapping visual features, the boundaries between classifications become unstable. 
 
-![messy cluster](/assets/images/plots-of-image-4.PNG)
+![messy cluster](/assets/images/plots%20of%20image%204%20.PNG)
 
 ![messy plot image results](/assets/images/IMG_3529.JPG)
 
@@ -53,11 +53,12 @@ Overall, this suggests that machine learning models are highly sensitive to imag
 
 ![brown plate](/assets/images/IMG_3528.JPG)
 
-![plot of brown plate](/assets/images/plots-of-image-5.png)
+
+![plot of brown plate](/assets/images/plots%20of%20image%205%20.png)
 
 ![isolated blue bowls](/assets/images/IMG_3531.JPG)
 
-![plots](/assets/images/image-6-plots.png)
+![plots](/assets/images/Image%206%20-%20plots%20of%20image%206.png)
 
 Some of the most intriguing moments for me during this assignment came from objects that appeared to be completely misclassified from the beginning. Unlike previous examples I mentioned, where the AI’s reasoning becomes more understandable after careful analysis of each image, a few results remain genuinely surprising and confusing even after closer inspection. One example is the brown plate labeled “images.” The model classifies this plate as a mug despite the object looking much more like a ceramic plate. This image lacked many of the features humans would normally associate with mugs, such as a visible handle or cup-like depth. The only aspect that could have affected the classifications is the image containing mostly a brown color palette, with both the ceramic object and background being similar shades of brown. This may have caused the object to visually blend into its background, making the overall structure less clear to the algorithm. 
 
