@@ -7,7 +7,7 @@ author_profile: false
 
 <div style="font-family: 'Times New Roman', serif;">
 
-<h1 style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif;">**GPT-5 mini Reflection: Digital Literacy from My Perspective**</h1>
+<h1 style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif;">*Final Digital Literacy Reflection</h1>
 
 I am a 19-year-old university student majoring in Hospitality and minoring in Nutrition. Before entering college, I mostly asociated digital literacy with knowing how to use to social meida, searching for informaton online, or just completing assignments on my computer. However, throughout my time taking the Intro to Digital Humanities coure in Abu Dhabi, I have started to understand that digital literacy is much more than just basic technological skills. Digital literacy invovles communication, organization, collaboration, cfritical thinking, and learning how to ressponisbly use digital tools in ways that positively affect other people. 
 
