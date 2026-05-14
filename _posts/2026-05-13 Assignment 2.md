@@ -34,9 +34,9 @@ After finishing the annotations, I downloaded my Recogito dataset as a CSV file 
 
 To create the visualization, I used the Leaflet package in R through Posit Cloud. The map contains two clickable layers: one layer for the manually geocoded dataset and another for the automatically geocoded dataset. I used different colors to separate the datasets visually and included interactive toggles so users could compare them directly.
 
+
+
 One issue I encountered during the mapping process involved overlapping points. Many locations appeared extremely close together geographically, especially within the Hadhramout region, which made some markers difficult to distinguish visually. To solve this problem, I used jitter to slightly offset some points on the map. Although this slightly reduced geographic precision, it made the map much easier to read and compare.
-
-
 
 The final map revealed several interesting patterns when comparing the two datasets. Both the manual and automated datasets clustered heavily in eastern Yemen, particularly around the Hadhramout region. Since this section of Southern Arabia focuses strongly on travel routes and settlements in this area, the concentration of points made sense geographically.
 
