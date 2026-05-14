@@ -3,7 +3,7 @@ title: "Assignment 2"
 categories: 
 - Assignments
 - Blog 
- 
+layout: single
 ---
 
 <p style="color: hotpink; font-weight: bold; font-family: 'Times New Roman', serif; font-size: 35px;">
@@ -26,7 +26,7 @@ This assignment connects closely to many of the course concepts we discussed reg
 
 I began the assignment by uploading the provided text into Recogito and manually annotating as many place names as possible. During the annotation process, I used gazetteers such as GeoNames, HistoGIS, and Pleiades to identify locations. However, many of the locations in the text were difficult to map because they either used older spellings, colonial transliterations, or historical names that no longer appear clearly in modern geographic databases.
 
-![Figure 1. Manual annotation of locations in Recogito while identifying historical place references from *Southern Arabia*.](/Digitalhum/assets/images/recogito-annotations.png)
+![Figure 1](/Digitalhum/assets/images/Screenshot 2026-05-14 at 2.32.41 AM.png)
 
 When the gazetteers did not provide accurate matches, I used outside sources such as OpenStreetMap and Google Maps to help identify possible coordinates. This part of the project required much more interpretation than I initially expected. Unlike automated geocoding systems, I had to think carefully about context, nearby locations, spelling variations, and the way the places were described in the narrative.
 
