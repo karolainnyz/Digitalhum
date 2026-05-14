@@ -26,7 +26,7 @@ This assignment connects closely to many of the course concepts we discussed reg
 
 I began the assignment by uploading the provided text into Recogito and manually annotating as many place names as possible. During the annotation process, I used gazetteers such as GeoNames, HistoGIS, and Pleiades to identify locations. However, many of the locations in the text were difficult to map because they either used older spellings, colonial transliterations, or historical names that no longer appear clearly in modern geographic databases.
 
-![Figure 1](/Digitalhum/assets/images/Screenshot 2026-05-14 at 2.32.41 AM.png)
+![Figure 1]({{ site.url }}/assets/images/Screenshot%202026-05-14%20at%202.32.41%20AM.png)
 
 When the gazetteers did not provide accurate matches, I used outside sources such as OpenStreetMap and Google Maps to help identify possible coordinates. This part of the project required much more interpretation than I initially expected. Unlike automated geocoding systems, I had to think carefully about context, nearby locations, spelling variations, and the way the places were described in the narrative.
 
@@ -34,13 +34,13 @@ After finishing the annotations, I downloaded my Recogito dataset as a CSV file 
 
 To create the visualization, I used the Leaflet package in R through Posit Cloud. The map contains two clickable layers: one layer for the manually geocoded dataset and another for the automatically geocoded dataset. I used different colors to separate the datasets visually and included interactive toggles so users could compare them directly.
 
-![Figure 2](/Digitalhum/assets/images/Screenshot 2026-05-14 at 2.49.17 AM.png)
+![Figure 2]({{ site.url }}/assets/images/Screenshot%202026-05-14%20at%202.49.17%20AM.png)
 
 One issue I encountered during the mapping process involved overlapping points. Many locations appeared extremely close together geographically, especially within the Hadhramout region, which made some markers difficult to distinguish visually. To solve this problem, I used jitter to slightly offset some points on the map. Although this slightly reduced geographic precision, it made the map much easier to read and compare.
 
 The final map revealed several interesting patterns when comparing the two datasets. Both the manual and automated datasets clustered heavily in eastern Yemen, particularly around the Hadhramout region. Since this section of Southern Arabia focuses strongly on travel routes and settlements in this area, the concentration of points made sense geographically.
 
-<iframe src="https://karolainnyz.github.io/Digitalhum/interactive_map.html" width="100%" height="500"></iframe>
+<iframe src="{{ site.url }}/interactive_map.html" width="100%" height="600" style="border: 1px solid #ddd;"></iframe>
 
 At first glance, many of the points from both datasets appear very similar. However, after examining the layers more carefully, I noticed that the datasets often did not align perfectly. Some locations overlapped closely, while others were mapped to noticeably different coordinates. These mismatches became one of the most interesting parts of the project because they revealed the different ways humans and computational systems interpret place names.
 
