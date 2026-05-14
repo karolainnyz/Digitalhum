@@ -26,7 +26,7 @@ This assignment connects closely to many of the course concepts we discussed reg
 
 I began the assignment by uploading the provided text into Recogito and manually annotating as many place names as possible. During the annotation process, I used gazetteers such as GeoNames, HistoGIS, and Pleiades to identify locations. However, many of the locations in the text were difficult to map because they either used older spellings, colonial transliterations, or historical names that no longer appear clearly in modern geographic databases.
 
-![Figure 1]({{ site.url }}/assets/images/Screenshot%202026-05-14%20at%202.32.41%20AM.png)
+![Figure 1]({{ '/assets/images/Screenshot%202026-05-14%20at%202.32.41%20AM.png' | relative_url }})
 
 When the gazetteers did not provide accurate matches, I used outside sources such as OpenStreetMap and Google Maps to help identify possible coordinates. This part of the project required much more interpretation than I initially expected. Unlike automated geocoding systems, I had to think carefully about context, nearby locations, spelling variations, and the way the places were described in the narrative.
 
@@ -34,7 +34,7 @@ After finishing the annotations, I downloaded my Recogito dataset as a CSV file 
 
 To create the visualization, I used the Leaflet package in R through Posit Cloud. The map contains two clickable layers: one layer for the manually geocoded dataset and another for the automatically geocoded dataset. I used different colors to separate the datasets visually and included interactive toggles so users could compare them directly.
 
-![Figure 2]({{ site.url }}/assets/images/Screenshot%202026-05-14%20at%202.49.17%20AM.png)
+![Figure 2]({{ '/assets/images/Screenshot%202026-05-14%20at%202.49.17%20AM.png' | relative_url }})
 
 One issue I encountered during the mapping process involved overlapping points. Many locations appeared extremely close together geographically, especially within the Hadhramout region, which made some markers difficult to distinguish visually. To solve this problem, I used jitter to slightly offset some points on the map. Although this slightly reduced geographic precision, it made the map much easier to read and compare.
 
