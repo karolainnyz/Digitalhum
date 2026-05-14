@@ -38,9 +38,9 @@ To create the visualization, I used the Leaflet package in R through Posit Cloud
 
 One issue I encountered during the mapping process involved overlapping points. Many locations appeared extremely close together geographically, especially within the Hadhramout region, which made some markers difficult to distinguish visually. To solve this problem, I used jitter to slightly offset some points on the map. Although this slightly reduced geographic precision, it made the map much easier to read and compare.
 
-
-
 The final map revealed several interesting patterns when comparing the two datasets. Both the manual and automated datasets clustered heavily in eastern Yemen, particularly around the Hadhramout region. Since this section of Southern Arabia focuses strongly on travel routes and settlements in this area, the concentration of points made sense geographically.
+
+<iframe src="https://karolainnyz.github.io/Digitalhum/interactive_map.html" width="100%" height="500"></iframe>
 
 At first glance, many of the points from both datasets appear very similar. However, after examining the layers more carefully, I noticed that the datasets often did not align perfectly. Some locations overlapped closely, while others were mapped to noticeably different coordinates. These mismatches became one of the most interesting parts of the project because they revealed the different ways humans and computational systems interpret place names.
 
@@ -73,5 +73,9 @@ Although automated geocoding allows for fast and large-scale spatial analysis, t
 At the same time, the project also showed me that maps and computational visualizations are not neutral representations of information. Every stage of the process involved interpretive decisions, including annotation, cleaning, formatting, visualization, and geocoding. Rather than simply producing a “correct” map, the assignment revealed how digital tools shape the way we understand historical geography.
 
 Similar to many of the other computational projects we completed throughout the semester, some of the most valuable insights came from the mistakes, mismatches, and ambiguities within the dataset itself. Instead of treating those moments as simple failures, they became opportunities to better understand the strengths and limitations of both human and machine interpretation.
+
+RECOGITO LINK:
+
+https://recogito.pelagios.org/document/9wson4wgfwwnj5/part/1/edit
 
 READY FOR GRADING!!!
