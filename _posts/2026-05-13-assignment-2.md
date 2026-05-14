@@ -40,7 +40,11 @@ One issue I encountered during the mapping process involved overlapping points. 
 
 The final map revealed several interesting patterns when comparing the two datasets. Both the manual and automated datasets clustered heavily in eastern Yemen, particularly around the Hadhramout region. Since this section of Southern Arabia focuses strongly on travel routes and settlements in this area, the concentration of points made sense geographically.
 
-<iframe src="{{ site.url }}/interactive_map.html" width="100%" height="600" style="border: 1px solid #ddd;"></iframe>
+<iframe src="{{ '/interactive_map.html' | relative_url }}"
+        width="100%"
+        height="600"
+        style="border: 1px solid #ddd;">
+</iframe>
 
 At first glance, many of the points from both datasets appear very similar. However, after examining the layers more carefully, I noticed that the datasets often did not align perfectly. Some locations overlapped closely, while others were mapped to noticeably different coordinates. These mismatches became one of the most interesting parts of the project because they revealed the different ways humans and computational systems interpret place names.
 
